@@ -20,3 +20,6 @@
 
 
 #### Dataset: https://archive.ics.uci.edu/ml/datasets/online+retail
+
+#### Note: At the customer_segmentation_rfm.py file, you can see the output of some important lines at the comment line.
+#### Keywords: RFM Analysis, Customer Segmentation, CRM Analytics
